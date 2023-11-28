@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Halismelih ABAK</h1>
-<h3 align="center">SoftWare Developer</h3>
+<h3 align="center">Software Developer</h3>
 
 - 🌱 I’m currently learning **Java**
 

@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on  Pair-1 Rent<br>⚡ I’m currently learning Angular <br>
+🔭 I’m currently working on  Pair-1 Rent<br>⚡ I’m currently learning Oracle PL/SQL <br>
 📫 How to reach me **hhlsabkk@icloud.com** 
 
 
